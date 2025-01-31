@@ -1,0 +1,7 @@
+C:\Users\dtisc\source\repos\ConsoleApp5.20\ConsoleApp5.20\bin\Debug\ConsoleApp5.20.exe.config
+C:\Users\dtisc\source\repos\ConsoleApp5.20\ConsoleApp5.20\bin\Debug\ConsoleApp5.20.exe
+C:\Users\dtisc\source\repos\ConsoleApp5.20\ConsoleApp5.20\bin\Debug\ConsoleApp5.20.pdb
+C:\Users\dtisc\source\repos\ConsoleApp5.20\ConsoleApp5.20\obj\Debug\ConsoleApp5.20.csproj.AssemblyReference.cache
+C:\Users\dtisc\source\repos\ConsoleApp5.20\ConsoleApp5.20\obj\Debug\ConsoleApp5.20.csproj.CoreCompileInputs.cache
+C:\Users\dtisc\source\repos\ConsoleApp5.20\ConsoleApp5.20\obj\Debug\ConsoleApp5.20.exe
+C:\Users\dtisc\source\repos\ConsoleApp5.20\ConsoleApp5.20\obj\Debug\ConsoleApp5.20.pdb
