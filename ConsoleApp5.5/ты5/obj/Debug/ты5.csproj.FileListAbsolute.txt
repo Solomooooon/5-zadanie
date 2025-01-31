@@ -1,0 +1,7 @@
+C:\Users\111\source\repos\ты5\ты5\bin\Debug\ты5.exe.config
+C:\Users\111\source\repos\ты5\ты5\bin\Debug\ты5.exe
+C:\Users\111\source\repos\ты5\ты5\bin\Debug\ты5.pdb
+C:\Users\111\source\repos\ты5\ты5\obj\Debug\ты5.csproj.AssemblyReference.cache
+C:\Users\111\source\repos\ты5\ты5\obj\Debug\ты5.csproj.CoreCompileInputs.cache
+C:\Users\111\source\repos\ты5\ты5\obj\Debug\ты5.exe
+C:\Users\111\source\repos\ты5\ты5\obj\Debug\ты5.pdb
